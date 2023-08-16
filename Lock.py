@@ -34,7 +34,7 @@ async def lockloop():
 
 @DiscordHacks.event
 async def on_connect():
-  print("Connected , use " ;lock GCID " and " ;unlock GCID " !")
+  print("Connected , use  ;lock GCID and  ;unlock GCID  !")
   await lockloop()
 
 @DiscordHacks.command()
