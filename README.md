@@ -29,7 +29,7 @@ You will also need Python to use it but if your not dumb you know that. Just wat
 
 The rule is simple :
 
-Dont skid ( it's sourcecode because im someone cool so dont skid it )
+Dont skid ( it's sourcecode because I'm cool so dont skid it )
 
 The only real creator is me. I created that method. And I have way more to share you x)
 
