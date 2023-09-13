@@ -1,6 +1,6 @@
 # Discord-Lock-GC V2
 
-Enjoy !
+Enjoy ! I AM NOT RESPONSIBLE OF WHAT YOU DO WITH IT ! USE IT AS EDUCATIONAL PURPOSES ONLY !
 WHAT I ADDED :
 
 I fixed it, now it works again, and also im working on an anti-leave, how to setup up ? Just put your token in the Lock.py and then launch the setup.bat, thats all, after this you can simply launch the Lock.py without using the setup.bat
